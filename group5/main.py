@@ -33,7 +33,7 @@ def nameCheck():
     
     for i in range(1, NUM_PLAYERS): # 플레이어 4명을 players 배열에 담슴니다.
         try:
-            with open("player" + str(i) + "/profile.json", "r") as f: 
+            with open("player" + str(i) + "/profile.json", "r", encoding='utf-8') as f: 
                 data = json.load(f)
                 if(data["닉네임"] == "[여기에 별명을 적어주세요]" or data["한마디"] == "[투빅스 16기에 임하는 각오 한 마디 적어 주세요!]"): # 모두의 파일이 작성되지 않음
                     time.sleep(WAITTIME)

@@ -18,7 +18,7 @@ def greeting():
     time.sleep(WAITTIME)
     print("여기는 정규세션 과제 월드입니다.")
     time.sleep(WAITTIME + 1) # 연출을 위해 1초 추가
-    print("그리고 저는 당신의 과제 달성을 도와줄 과제 요정입니다 ^^ ")
+    print("그리고 저는 당신의 과제 달성을 도와줄 과제 요정입니다 ^^ ") 
     time.sleep(WAITTIME)
     print("여러분들이 투빅스 생활을 잘 해쳐 나갈 수 있도록 간단하게 몇 가지 파이썬 문제를 준비했습니다.")
     time.sleep(WAITTIME)
