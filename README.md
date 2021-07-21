@@ -7,6 +7,7 @@
 다음 주의사항을 잘 읽고 잘 따라와 주세요!
 
 ## 팀 설정
+![team image](http://www.datamarket.kr/xe/files/attach/images/142/464/074/bf5ca8cc3456720372e3c2db491141b2.PNG)
 - [투빅스 16기 합격자 발표 페이지](http://www.datamarket.kr/xe/board_lhOx96/74464) 의 발표 명단을 기준으로 합니다.
 - `세로 행에 있는 사람 4명` 이 하나의 조로 편성됩니다. 총 5개의 조로 이루어져 있습니다.
 - 조 편성은 `왼쪽부터 1조` 입니다.
