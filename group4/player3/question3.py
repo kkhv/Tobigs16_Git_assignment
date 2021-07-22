@@ -7,7 +7,9 @@ def question():
     result = []
 
     for i in original:
-        if i%2 != 0:
+        if i%2 == 0:
             result.append(i)
+            
+    return result
 
     assert result == [2,4,6,8] # 짝수만 추출되었는지 확인합니다. 이 줄은 수정하지 말아 주세요!
