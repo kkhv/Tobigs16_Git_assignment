@@ -6,6 +6,6 @@ def question():
 
     wish_food_price = {"황금올리브":18000, "연어초밥":15000}
 
-    wish_food_price["여기를 수정해 주세요"] = "여기를 수정해 주세요"
+    wish_food_price["삼겹살"] = "10000"
     
     assert '삼겹살' in wish_food_price.keys() # 삼겹살이 있는지 측정합니다. 이 줄은 수정하지 말아 주세요!
